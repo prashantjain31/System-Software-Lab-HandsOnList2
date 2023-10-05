@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 26.c
+Author : Prashant Jain
+Description : Write a program to send messages to the message queue. 
+	Check $ipcs -q
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/msg.h>

@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 32_d.c
+Author : Prashant Jain
+Description : Write a program to implement semaphore to protect 
+	any critical section.
+	d. remove the created semaphore
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/sem.h>

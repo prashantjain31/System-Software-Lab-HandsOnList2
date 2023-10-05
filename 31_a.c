@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 31_a.c
+Author : Prashant Jain
+Description : Write a program to create a semaphore and initialize 
+	value to the semaphore.
+	a. create a binary semaphore
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/sem.h>

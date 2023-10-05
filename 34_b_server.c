@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 34_b_server.c
+Author : Prashant Jain
+Description : Write a program to create a concurrent server.
+	b. use pthread_create
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>

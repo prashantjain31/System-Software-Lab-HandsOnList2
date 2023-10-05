@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name : 32_c.c
+Author : Prashant Jain
+Description : Write a program to implement semaphore to protect 
+	any critical section.
+	c. protect multiple pseudo resources ( may be two) using 
+	counting semaphore
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/sem.h>

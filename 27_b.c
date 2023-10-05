@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 27_b.c
+Author : Prashant Jain
+Description : Write a program to receive messages from the message queue.
+	b. with IPC_NOWAIT as a flag
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/msg.h>

@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 34_client.c
+Author : Prashant Jain
+Description : Write a program to create a concurrent server.
+	a. use fork
+	b. use pthread_create
+============================================================================
+*/
 #include<sys/types.h>
 #include<sys/socket.h>
 #include<netinet/ip.h>

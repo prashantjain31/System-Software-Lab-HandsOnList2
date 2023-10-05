@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 23.c
+Author : Prashant Jain
+Description : Write a program to print the maximum number of files 
+	can be opened within a process and size of a pipe (circular buffer).
+============================================================================
+*/
 #include<unistd.h>
 #include<stdio.h>
 #include<stdlib.h>

@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 32_a.c
+Author : Prashant Jain
+Description : Write a program to implement semaphore to protect 
+	any critical section.
+	a. rewrite the ticket number creation program using semaphore
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/sem.h>

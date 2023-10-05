@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 33_client.c
+Author : Prashant Jain
+Description : Write a program to communicate between two machines 
+	using socket.
+============================================================================
+*/
 #include<sys/types.h>
 #include<sys/socket.h>
 #include<netinet/ip.h>

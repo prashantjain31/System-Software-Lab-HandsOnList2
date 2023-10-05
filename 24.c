@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 24.c
+Author : Prashant Jain
+Description : Write a program to create a message queue and print 
+	the key and message queue id.
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<stdio.h>
 #include<sys/types.h>

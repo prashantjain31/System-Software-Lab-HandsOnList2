@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 15.c
+Author : Prashant Jain
+Description : Write a simple program to send some data from parent 
+	to the child process.
+============================================================================
+*/
 #include<stdlib.h>
 #include<unistd.h>
 #include<stdio.h>

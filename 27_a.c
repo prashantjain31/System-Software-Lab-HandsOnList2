@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 27_a.c
+Author : Prashant Jain
+Description : Write a program to receive messages from the message queue.
+	a. with 0 as a flag
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/msg.h>

@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 20_w.c
+Author : Prashant Jain
+Description : Write two programs so that both can communicate by FIFO 
+	-Use one way communication. Write end of one way communication
+============================================================================
+*/
 #include<stdlib.h>
 #include<stdio.h>
 #include<unistd.h>

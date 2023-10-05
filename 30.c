@@ -1,3 +1,14 @@
+/*
+============================================================================
+Name : 30.c
+Author : Prashant Jain
+Description : Write a program to create a shared memory.
+	a. write some data to the shared memory
+	b. attach with O_RDONLY and check whether you are able to overwrite.
+	c. detach the shared memory
+	d. remove the shared memory
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/shm.h>

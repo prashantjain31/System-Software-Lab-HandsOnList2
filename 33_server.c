@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 33_server.c
+Author : Prashant Jain
+Description : Write a program to communicate between two machines 
+\	using socket.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>

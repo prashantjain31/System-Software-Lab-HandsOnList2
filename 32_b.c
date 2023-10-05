@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 32_b.c
+Author : Prashant Jain
+Description : Write a program to implement semaphore to protect 
+	any critical section.
+	b. protect shared memory from concurrent write access
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/sem.h>

@@ -1,3 +1,10 @@
+/*
+============================================================================
+Name : 29.c
+Author : Prashant Jain
+Description : Write a program to remove the message queue.
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/msg.h>

@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 31_b.c
+Author : Prashant Jain
+Description : Write a program to create a semaphore and initialize 
+	value to the semaphore.
+	b. create a counting semaphore
+============================================================================
+*/
 #include<sys/ipc.h>
 #include<sys/types.h>
 #include<sys/sem.h>
